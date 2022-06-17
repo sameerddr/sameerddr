@@ -6,7 +6,7 @@ my life in short---->
 <h1 align="center">Hi 👋, I'm Sameer Varshney</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
 
-
+<img align="center" src="https://paragnachaliya.in/wp-content/uploads/2015/12/website-designing-768x592.jpg" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerddr&label=Profile%20views&color=0e75b6&style=flat" alt="sameerddr" /> </p>
