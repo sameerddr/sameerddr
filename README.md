@@ -31,7 +31,7 @@ I love To Travel around The World As i went so many venues & in future i have de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-varshney-63a727203/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bfdwlueljs1cx6qlvy%2fk%2fiq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-varshney-63a727203/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bfdwlueljs1cx6qlvy%2fk%2fiq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sameer-varshney-63a727203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-varshney-63a727203/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bfdwlueljs1cx6qlvy%2fk%2fiq%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
