@@ -1,6 +1,3 @@
-my life in short---->
-
-
 
 
 <h1 align="center">Hi 👋, I'm Sameer Varshney</h1>
@@ -11,15 +8,15 @@ my life in short---->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerddr&label=Profile%20views&color=0e75b6&style=flat" alt="sameerddr" /> </p>
 
-I am Sameer Varshney , a trainee at Aircampus pursuing my bachler's degree in Computer Science.
+I am Sameer Varshney, Frontend Developer at Rohin Infotech Pvt Ltd pursued my bachelor's degree in Computer Science.
 
-I enjoying in Contributing to open Source Projects and i really wanted to learn more about learning new technologies . I basically familiar with Web Development Languages & Some Programing Languages like --- Java , C++ , Python , etc 
+I enjoyed Contributing to Open Source Projects and I really wanted to learn more about learning new technologies. I basically familiar with Web Development Languages & Some Programing Languages like --- Java, C++, Python, etc 
 
-Outside This World of Tech , I like pushing my self in Cricket , Sketching , Cooking!!!!!!!!!!!
+Outside This World of Tech, I like pushing myself in Cricket, Sketching, Cooking!!!!!!!!!!!
 
-I love to reading books regarding my Interst & Technology & Novels. My Favourites ones are 13 reason why which was a novel @Jay Asher ..when i get free i prefer myself to read novels which inspires me a lot >>>>
+I love to read books regarding my interests & Technology & Novels. My Favourites are 13 reasons why which was a novel, @Jay Asher ..when I get free I prefer myself to read books that inspire me a lot >>>>
 
-I love To Travel around The World As i went so many venues & in future i have decided to visit some more places in which Bhutan is one of them<<<<
+I Love To Travel Around The World As I went to so many venues & in the future I have decided to visit some more places in which Bhutan is one of them<<<<
 
 
 
